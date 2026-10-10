@@ -1,0 +1,51 @@
+{
+  "username": "SMXcoder",
+  "name": "Samarth Mungase",
+  "handle": "samarth",
+  "card_title": "samarth@SMXcoder",
+  "card": [
+    [
+      "Now",
+      "B.Tech IT @ PICT Pune \u00b7 CGPA 9.28",
+      "#7ee787"
+    ],
+    [
+      "Building",
+      "MERN apps, REST APIs, real-time features",
+      "#79c0ff"
+    ],
+    [
+      "Stack",
+      "C++ \u00b7 Python \u00b7 React \u00b7 Node \u00b7 Mongo \u00b7 Redis",
+      "#d2a8ff"
+    ],
+    [
+      "Projects",
+      "MindEase (SIH 2025) \u00b7 Ride-Share \u00b7 Micrograd",
+      "#ffa657"
+    ],
+    [
+      "Contests",
+      "LeetCode 1576 \u00b7 CodeChef 2\u2605 \u00b7 450+ solved",
+      "#ff7b72"
+    ]
+  ],
+  "banner_lines": [
+    [
+      "$ whoami",
+      "#8b949e"
+    ],
+    [
+      "Samarth Mungase",
+      "#c9d1d9"
+    ],
+    [
+      "$ cat focus.txt",
+      "#8b949e"
+    ],
+    [
+      "DSA \u00b7 MERN \u00b7 AI",
+      "#79c0ff"
+    ]
+  ]
+}
